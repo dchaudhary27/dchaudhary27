@@ -11,6 +11,6 @@ I'm a computer science student who is passionate about development, solving prob
 
 
 
-How to reach me :point_right: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/dhaval-chaudhary-759743230/)](https://www.linkedin.com/in/vividha-rawat-761905143/)
+How to reach me :point_right: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/dhaval-chaudhary-759743230/)](https://www.linkedin.com/in/dhaval-chaudhary-759743230/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhavalchaudhary364@gmail.com)](mailto:dhavalchaudhary364@gmail.com)
 
