@@ -1,16 +1,16 @@
-### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-**dchaudhary27/dchaudhary27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a computer science student who is passionate about development, solving problems, automating stuff, and building software.
+ 
+- 👨‍🎓 I’m currently a Computer Science student at Ahmedabad University.
+- 🔭 I’m currently working on some of my cool side projects based on Web Development and Blockchain.
+- 🌱 I'm currently looking for opportunities where I can strengthen my skills.
+- 👯 I love to learn and contribute in any and every possible way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+How to reach me :point_right: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/dhaval-chaudhary-759743230/)](https://www.linkedin.com/in/vividha-rawat-761905143/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhavalchaudhary364@gmail.com)](mailto:dhavalchaudhary364@gmail.com)
+
