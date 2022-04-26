@@ -5,7 +5,7 @@ I'm a computer science student who is passionate about development, solving prob
  
 - 👨‍🎓 I’m currently a Computer Science student at Ahmedabad University.
 - 🔭 I’m currently working on some of my cool side projects based on Web Development and Blockchain.
-- 🌱 I'm currently looking for opportunities where I can strengthen my skills.
+- 🌱 Looking for opportunities where I can strengthen my skills.
 - 👯 I love to learn and contribute in any and every possible way.
 
 
