@@ -3,8 +3,8 @@
 
 I'm a computer science student who is passionate about development, solving problems, automating stuff, and building software.
  
-- 👨‍🎓 I’m currently a Computer Science student at Ahmedabad University.
-- 🔭 I’m currently learning Data Structure and Web Development.
+- 👨‍🎓 I’m currently a post-graduate Computational Science student at Laurentian University.
+- 🔭 I’m a skilled developer with a strong knowledge in DSA and Web technologies .
 - 🌱 Looking for opportunities where I can strengthen my skills.
 - 👯 I love to learn and contribute in any and every possible way.
 
